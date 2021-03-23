@@ -5,4 +5,6 @@ public class Prova {
 	String Name1 = "WS_GIT_user1";
 	String Name2 = "ImmagineSample";
 	String Name3 = "Mergeffff";
+	String Name4 = "From1_to_2";
+	
 }
