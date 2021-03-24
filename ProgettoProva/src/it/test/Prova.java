@@ -6,6 +6,6 @@ public class Prova {
 	String Name2 = "ImmagineSample";
 	String Name3 = "Mergeffff";
 	String Name4 = "From1_to_2";
-	String Push5 = "Push5";
+	String Push6 = "Push6";
 	
 }
